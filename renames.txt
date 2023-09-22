@@ -1,0 +1,4 @@
+Entity=Models
+earning=addMoney
+InsufficientFundsException=NotEnoughFundsException
+ContributionLimitExceededException=InvestLimitReachedException
